@@ -1,10 +1,34 @@
-body {
-   font-family: 'Raleway', sans-serif;
-   color: white;
+header {
    background: url(../img/brushedsteel.jpg)  center fixed;
    background-size: cover;
    height: 90vh;
 }
+body {
+   color: white;
+}
+#title {
+   font-family: 'Merriweather', serif;
+   font-size: 6em;
+   font-style: italic;
+   font-weight: 300;
+   text-align: center;
+   padding-top: 10%;
+   padding-left: 15%;
+   padding-right: 15%;
+   padding bottom: 10%;
+   letter-spacing: 8px;
+}
+
+#by {
+   font-family: 'Raleway', sans-serif;
+   font-size: 3em;
+   font-weight: 400;
+   color: #7fcdee;
+   text-align: center;
+   letter-spacing: 4px;
+   padding-top: 5%;
+}
+
 #principle1 {
    background: url(../img/principles-01.png)
    center center scroll;
@@ -13,12 +37,44 @@ body {
    height: 90vh;
 }
 
+#tag1 {
+   font-family: 'Raleway', sans-serif;
+   font-size: 8em;
+   font-weight: 100;
+   text-align: right;
+   padding-top: 12%;
+   padding-right: 12%;
+   color: #7fcdee;
+}
+
+#tag1_1 {
+   font-family: 'Merriweather', serif;
+   font-size: 1.5em;
+   font-weight: 300;
+   font-style: italic;
+   line-height: 1.5em;
+   padding-top: 3%;
+   padding-right: 12%;
+   padding-left: 25%;
+   text-align: right;
+}
+
 #principle2 {
    background: url(../img/principles-02.png)
-   center center scroll;
+   center center fixed;
    background-repeat: no-repeat;
    background-size: cover;
    height: 90vh
+}
+
+#tag2 {
+   font-family: 'Raleway', sans-serif;
+   font-size: 8em;
+   font-weight: 100;
+   text-align: left;
+   padding-top: 100px;
+   padding-left: 100px;
+   color: #7fcdee;
 }
 
 #principle3 {
@@ -31,7 +87,7 @@ body {
 
 #principle4 {
    background: url(../img/principles-04.png)
-   center center scroll;
+   center center fixed;
    background-repeat: no-repeat;
    background-size: cover;
    height: 90vh
@@ -47,7 +103,7 @@ body {
 
 #principle6 {
    background: url(../img/principles-06.png)
-   center center scroll;
+   center center fixed;
    background-repeat: no-repeat;
    background-size: cover;
    height: 90vh
@@ -63,7 +119,7 @@ body {
 
 #principle8 {
    background: url(../img/principles-08.png)
-   center center scroll;
+   center center fixed;
    background-repeat: no-repeat;
    background-size: cover;
    height: 90vh
@@ -79,7 +135,7 @@ body {
 
 #principle10 {
    background: url(../img/principles-10.png)
-   center center scroll;
+   center center fixed;
    background-repeat: no-repeat;
    background-size: cover;
    height: 90vh
