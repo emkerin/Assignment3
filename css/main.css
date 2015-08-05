@@ -1,23 +1,10 @@
 header {
    background: url(../img/principles-11.png)  center fixed;
    background-size: cover;
-   height: 90vh;
+   height: 100vh;
 }
 body {
    color: white;
-}
-#title {
-   font-family: 'Raleway', sans-serif;
-   font-size: 8em;
-   font-style: bold;
-   font-variant: small-caps;
-   font-weight: 200;
-   text-align: center;
-   padding-top: 10%;
-   padding-left: 5%;
-   padding-right: 5%;
-   padding bottom: 5%;
-   letter-spacing: 8px;
 }
 
 #by {
@@ -27,26 +14,42 @@ body {
    color: #7fcdee;
    text-align: center;
    letter-spacing: 10px;
+   padding-top: 8%;
+   padding-left: 5%;
+   padding-right: 5%;
+   padding bottom: 5%;
+}
+#title {
+   font-family: 'Raleway', sans-serif;
+   font-size: 8em;
+   font-style: bold;
+   font-variant: small-caps;
+   font-weight: 200;
+   text-align: center;
    padding-top: 2%;
-   padding-bottom: 5%;
+   padding-left: 5%;
+   padding-right: 5%;
+   padding-bottom: 10%;
+   letter-spacing: 8px;
 }
 
-/*COME BACK TO THIS: #gd {
+#gd {
    font-family: 'Merriweather', serif;
-   font-weight: 300;
-   letter-spacing: 4px;
+   font-size: 4em;
+   font-weight: 200;
+   font-variant: small-caps;
+   color: white;
    text-align: center;
-   font size: 18px;
-   background-color: black;
-   background-position: fixed;
-   height: 15%;
-   width: 100%;
-   padding-top: 10%
-}*/
+   letter-spacing: 10px;
+   padding-top: 3%;
+   padding-bottom: 3%;
+   background-color: #1a1a1a;
+   background-position: center;
+}
 
 #principle1 {
    background: url(../img/principles-01.png)
-   center center scroll;
+   center center fixed;
    background-repeat: no-repeat;
    background-size: cover;
    height: 90vh;
@@ -106,7 +109,7 @@ body {
 
 #principle3 {
    background: url(../img/principles-03.png)
-   center center scroll;
+   center center fixed;
    background-repeat: no-repeat;
    background-size: cover;
    height: 90vh
@@ -166,7 +169,7 @@ body {
 
 #principle5 {
    background: url(../img/principles-05.png)
-   center center scroll;
+   center center fixed;
    background-repeat: no-repeat;
    background-size: cover;
    height: 90vh
@@ -226,7 +229,7 @@ body {
 
 #principle7 {
    background: url(../img/principles-07.png)
-   center center scroll;
+   center center fixed;
    background-repeat: no-repeat;
    background-size: cover;
    height: 90vh
@@ -286,7 +289,7 @@ body {
 
 #principle9 {
    background: url(../img/principles-09.png)
-   center center scroll;
+   center center fixed;
    background-repeat: no-repeat;
    background-size: cover;
    height: 90vh
@@ -294,7 +297,7 @@ body {
 
 #tag9 {
    font-family: 'Raleway', sans-serif;
-   font-size: 8em;
+   font-size: 7em;
    font-weight: 100;
    text-align: right;
    padding-top: 12%;
