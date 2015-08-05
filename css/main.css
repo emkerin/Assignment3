@@ -1,18 +1,86 @@
-html {
-   background: url(img/brushedsteel.jpg) no-repeat fixed center fixed;
+body {
+   font-family: 'Raleway', sans-serif;
+   color: white;
+   background: url(../img/brushedsteel.jpg)  center fixed;
    background-size: cover;
+   height: 90vh;
 }
-img.bg {
-  /* Set rules to fill background */
-  min-height: 100%;
-  min-width: 1024px;
+#principle1 {
+   background: url(../img/principles-01.png)
+   center center scroll;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 90vh;
+}
 
-  /* Set up proportionate scaling */
-  width: 100%;
-  height: auto;
+#principle2 {
+   background: url(../img/principles-02.png)
+   center center scroll;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 90vh
+}
 
-  /* Set up positioning */
-  position: fixed;
-  top: 0;
-  left: 0;
+#principle3 {
+   background: url(../img/principles-03.png)
+   center center scroll;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 90vh
+}
+
+#principle4 {
+   background: url(../img/principles-04.png)
+   center center scroll;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 90vh
+}
+
+#principle5 {
+   background: url(../img/principles-05.png)
+   center center scroll;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 90vh
+}
+
+#principle6 {
+   background: url(../img/principles-06.png)
+   center center scroll;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 90vh
+}
+
+#principle7 {
+   background: url(../img/principles-07.png)
+   center center scroll;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 90vh
+}
+
+#principle8 {
+   background: url(../img/principles-08.png)
+   center center scroll;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 90vh
+}
+
+#principle9 {
+   background: url(../img/principles-09.png)
+   center center scroll;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 90vh
+}
+
+#principle10 {
+   background: url(../img/principles-10.png)
+   center center scroll;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 90vh
 }
