@@ -1,5 +1,5 @@
 header {
-   background: url(../img/brushedsteel.jpg)  center fixed;
+   background: url(../img/principles-11.png)  center fixed;
    background-size: cover;
    height: 90vh;
 }
@@ -7,27 +7,42 @@ body {
    color: white;
 }
 #title {
-   font-family: 'Merriweather', serif;
-   font-size: 6em;
-   font-style: italic;
-   font-weight: 300;
+   font-family: 'Raleway', sans-serif;
+   font-size: 8em;
+   font-style: bold;
+   font-variant: small-caps;
+   font-weight: 200;
    text-align: center;
    padding-top: 10%;
-   padding-left: 15%;
-   padding-right: 15%;
-   padding bottom: 10%;
+   padding-left: 5%;
+   padding-right: 5%;
+   padding bottom: 5%;
    letter-spacing: 8px;
 }
 
 #by {
-   font-family: 'Raleway', sans-serif;
+   font-family: 'Merriweather', serif;
    font-size: 3em;
-   font-weight: 400;
+   font-weight: 200;
    color: #7fcdee;
    text-align: center;
-   letter-spacing: 4px;
-   padding-top: 5%;
+   letter-spacing: 10px;
+   padding-top: 2%;
+   padding-bottom: 5%;
 }
+
+/*COME BACK TO THIS: #gd {
+   font-family: 'Merriweather', serif;
+   font-weight: 300;
+   letter-spacing: 4px;
+   text-align: center;
+   font size: 18px;
+   background-color: black;
+   background-position: fixed;
+   height: 15%;
+   width: 100%;
+   padding-top: 10%
+}*/
 
 #principle1 {
    background: url(../img/principles-01.png)
@@ -72,9 +87,21 @@ body {
    font-size: 8em;
    font-weight: 100;
    text-align: left;
-   padding-top: 100px;
-   padding-left: 100px;
+   padding-top: 5%;
+   padding-left: 5%;
    color: #7fcdee;
+}
+
+#tag2_2 {
+   font-family: 'Merriweather', serif;
+   font-size: 1.5em;
+   font-weight: 300;
+   font-style: italic;
+   line-height: 1.5em;
+   padding-top: 3%;
+   padding-left: 12%;
+   padding-right: 25%;
+   text-align: left;
 }
 
 #principle3 {
@@ -85,12 +112,56 @@ body {
    height: 90vh
 }
 
+#tag3 {
+   font-family: 'Raleway', sans-serif;
+   font-size: 8em;
+   font-weight: 100;
+   text-align: right;
+   padding-top: 12%;
+   padding-right: 12%;
+   color: #7fcdee;
+}
+
+#tag3_3 {
+   font-family: 'Merriweather', serif;
+   font-size: 1.5em;
+   font-weight: 300;
+   font-style: italic;
+   line-height: 1.5em;
+   padding-top: 3%;
+   padding-right: 12%;
+   padding-left: 25%;
+   text-align: right;
+}
+
 #principle4 {
    background: url(../img/principles-04.png)
    center center fixed;
    background-repeat: no-repeat;
    background-size: cover;
    height: 90vh
+}
+
+#tag4 {
+   font-family: 'Raleway', sans-serif;
+   font-size: 8em;
+   font-weight: 100;
+   text-align: left;
+   padding-top: 5%;
+   padding-left: 5%;
+   color: #7fcdee;
+}
+
+#tag4_4 {
+   font-family: 'Merriweather', serif;
+   font-size: 1.5em;
+   font-weight: 300;
+   font-style: italic;
+   line-height: 1.5em;
+   padding-top: 3%;
+   padding-left: 12%;
+   padding-right: 25%;
+   text-align: left;
 }
 
 #principle5 {
@@ -101,12 +172,56 @@ body {
    height: 90vh
 }
 
+#tag5 {
+   font-family: 'Raleway', sans-serif;
+   font-size: 8em;
+   font-weight: 100;
+   text-align: right;
+   padding-top: 12%;
+   padding-right: 12%;
+   color: #7fcdee;
+}
+
+#tag5_5 {
+   font-family: 'Merriweather', serif;
+   font-size: 1.5em;
+   font-weight: 300;
+   font-style: italic;
+   line-height: 1.5em;
+   padding-top: 3%;
+   padding-right: 12%;
+   padding-left: 25%;
+   text-align: right;
+}
+
 #principle6 {
    background: url(../img/principles-06.png)
    center center fixed;
    background-repeat: no-repeat;
    background-size: cover;
    height: 90vh
+}
+
+#tag6 {
+   font-family: 'Raleway', sans-serif;
+   font-size: 8em;
+   font-weight: 100;
+   text-align: left;
+   padding-top: 5%;
+   padding-left: 5%;
+   color: #7fcdee;
+}
+
+#tag6_6 {
+   font-family: 'Merriweather', serif;
+   font-size: 1.5em;
+   font-weight: 300;
+   font-style: italic;
+   line-height: 1.5em;
+   padding-top: 3%;
+   padding-left: 12%;
+   padding-right: 25%;
+   text-align: left;
 }
 
 #principle7 {
@@ -117,12 +232,56 @@ body {
    height: 90vh
 }
 
+#tag7 {
+   font-family: 'Raleway', sans-serif;
+   font-size: 8em;
+   font-weight: 100;
+   text-align: right;
+   padding-top: 12%;
+   padding-right: 12%;
+   color: #7fcdee;
+}
+
+#tag7_7 {
+   font-family: 'Merriweather', serif;
+   font-size: 1.5em;
+   font-weight: 300;
+   font-style: italic;
+   line-height: 1.5em;
+   padding-top: 3%;
+   padding-right: 12%;
+   padding-left: 25%;
+   text-align: right;
+}
+
 #principle8 {
    background: url(../img/principles-08.png)
    center center fixed;
    background-repeat: no-repeat;
    background-size: cover;
    height: 90vh
+}
+
+#tag8 {
+   font-family: 'Raleway', sans-serif;
+   font-size: 8em;
+   font-weight: 100;
+   text-align: left;
+   padding-top: 5%;
+   padding-left: 5%;
+   color: #7fcdee;
+}
+
+#tag8_8 {
+   font-family: 'Merriweather', serif;
+   font-size: 1.5em;
+   font-weight: 300;
+   font-style: italic;
+   line-height: 1.5em;
+   padding-top: 3%;
+   padding-left: 12%;
+   padding-right: 25%;
+   text-align: left;
 }
 
 #principle9 {
@@ -133,6 +292,28 @@ body {
    height: 90vh
 }
 
+#tag9 {
+   font-family: 'Raleway', sans-serif;
+   font-size: 8em;
+   font-weight: 100;
+   text-align: right;
+   padding-top: 12%;
+   padding-right: 12%;
+   color: #7fcdee;
+}
+
+#tag9_9 {
+   font-family: 'Merriweather', serif;
+   font-size: 1.5em;
+   font-weight: 300;
+   font-style: italic;
+   line-height: 1.5em;
+   padding-top: 3%;
+   padding-right: 12%;
+   padding-left: 25%;
+   text-align: right;
+}
+
 #principle10 {
    background: url(../img/principles-10.png)
    center center fixed;
@@ -140,3 +321,26 @@ body {
    background-size: cover;
    height: 90vh
 }
+
+#tag10 {
+      font-family: 'Raleway', sans-serif;
+   font-size: 8em;
+   font-weight: 100;
+   text-align: left;
+   padding-top: 5%;
+   padding-left: 5%;
+   color: #7fcdee;
+}
+
+#tag10_10 {
+   font-family: 'Merriweather', serif;
+   font-size: 1.5em;
+   font-weight: 300;
+   font-style: italic;
+   line-height: 1.5em;
+   padding-top: 3%;
+   padding-left: 12%;
+   padding-right: 25%;
+   text-align: left;
+}
+
