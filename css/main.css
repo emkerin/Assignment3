@@ -44,7 +44,9 @@ body {
    padding-top: 3%;
    padding-bottom: 3%;
    background-color: #1a1a1a;
-   background-position: center;
+   background-position: center center fixed;
+   position: absolute;
+   width: 100%;
 }
 
 #principle1 {
